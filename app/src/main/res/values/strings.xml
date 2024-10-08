@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Makanan Indonesia</string>
+
+    <string name="food_name">Nama</string>
+    <string name="food_description">Deskripsi</string>
+
+    <string name="about">Tentang Saya</string>
+    <string name="about_name">Alfonso Lai</string>
+    <string name="about_email">alfonlai97@gmail.com</string>
+    <string name="detail_name">Nama</string>
+    <string name="detail_origin">Asal</string>
+    <string name="detail_description">Deskripsi</string>
+    <string name="share">Bagikan</string>
+
+    <string-array name="foods_name_data">
+        <item>Mie Aceh</item>
+        <item>Bika Ambon</item>
+        <item>Rendang</item>
+        <item>Pempek</item>
+        <item>Mie Bangka</item>
+        <item>Kerak Telor</item>
+        <item>Karedok</item>
+        <item>Lumpia</item>
+        <item>Nasi Gudeg</item>
+        <item>Rujak Cingur</item>
+        <item>Ayam Betutu</item>
+        <item>Ayam Taliwang</item>
+        <item>Jagung Bose</item>
+        <item>Bubur Pedas</item>
+        <item>Soto Banjar</item>
+        <item>Kepiting Soka</item>
+        <item>Sop Konro</item>
+        <item>Papeda</item>
+    </string-array>
+
+    <string-array name="foods_origin_data">
+        <item>Aceh</item>
+        <item>Sumatera Utara</item>
+        <item>Sumatera Barat</item>
+        <item>Sumatera Selatan</item>
+        <item>Bangka Belitung</item>
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>DI Yogyakarta</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Selatan</item>
+        <item>Kalimantan Utara</item>
+        <item>Sulawesi Selatan</item>
+        <item>Papua</item>
+    </string-array>
+
+    <string-array name="foods_description_data">
+        <item>Mie Aceh, hidangan khas Aceh, merupakan perpaduan unik dari mie kuning tebal, berbagai rempah-rempah, serta potongan daging dan seafood seperti udang atau kepiting. Dimasak dengan beragam teknik seperti digoreng, ditumis, dan direbus, Mie Aceh tidak hanya menyajikan kelezatan rasa tapi juga menggambarkan kekayaan budaya kuliner Aceh. Hidangan ini telah menjadi warisan kuliner yang memperkaya identitas Aceh dan menjadi favorit di seluruh Indonesia.</item>
+        <item>Bika Ambon, meski memiliki nama yang mengacu ke Ambon, sejatinya berasal dari Sumatera Utara, terutama dikenal di Kota Medan. Kue lembut dan legit ini, dengan kekhasan warna kuningnya, memiliki sejarah panjang di masyarakat Medan. Di balik cita rasa manisnya, Bika Ambon menceritakan kecerdasan kuliner lokal yang terjaga selama bertahun-tahun, menjadi simbol kehangatan dan keramahan kota ini.</item>
+        <item>Rendang, mahakarya kuliner yang terkenal di seluruh dunia, adalah hidangan khas Sumatera Barat yang terbuat dari daging sapi, santan, dan rempah-rempah yang dimasak dalam waktu lama. Kelezatan Rendang bukan hanya sekadar rasa, melainkan juga cerita tentang keahlian kuliner tradisional yang diwariskan dari generasi ke generasi. Menjadi ikon kuliner Indonesia, Rendang mengukuhkan posisinya sebagai satu dari sekian banyak keajaiban rasa di nusantara.</item>
+        <item>Pempek, hidangan khas Palembang, menghadirkan harmoni rasa dari olahan ikan segar dan tepung sagu. Disajikan dengan kuah cuko, mie, potongan timun, dan udang rebon, Pempek tidak hanya memanjakan lidah, tetapi juga menceritakan kisah tentang keberagaman bahan lokal yang diolah menjadi hidangan lezat. Pempek menjadi kebanggaan kuliner Sumatera Selatan yang berhasil merambah seluruh Indonesia.</item>
+        <item>Mie Bangka, makanan khas Kepulauan Bangka Belitung yang sangat populer, tidak hanya terkenal di tempat asalnya tetapi juga merambah ke kota-kota besar lainnya. Hidangan ini terbuat dari mie dengan potongan daging yang disiram kuah bening, menciptakan kombinasi rasa yang memanjakan selera. Mie Bangka menjadi ikon kuliner yang merayakan keberagaman cita rasa di seluruh Indonesia.</item>
+        <item>Kerak Telor, hidangan khas Betawi, terdiri dari beras ketan, telur ayam/bebek, ebi, bawang goreng, dan kelapa sangrai. Kerak Telor bukan hanya sekadar makanan, tetapi juga bagian dari tradisi festival, seperti Pekan Raya Jakarta. Dalam setiap gigitannya, Kerak Telor membawa pengalaman kuliner yang memancarkan kehangatan budaya Betawi.</item>
+        <item>Karedok, makanan khas Jawa Barat, adalah perpaduan sayuran mentah seperti kacang panjang, tauge, kol, mentimun, dan daun kemangi yang disiram dengan saus kacang. Hidangan ini tidak hanya menggugah selera tetapi juga menjadi representasi dari kreativitas dalam menciptakan hidangan berbahan dasar sayuran. Karedok mencerminkan keberagaman cita rasa Jawa Barat yang segar dan nikmat.</item>
+        <item>Lumpia, makanan khas Semarang, sering dijadikan oleh-oleh dengan isian bervariasi seperti ayam, telur ikan, sayur, dan udang. Selain sebagai hidangan lezat, Lumpia juga menjadi simbol keberagaman kuliner Jawa Tengah yang dapat dinikmati dalam berbagai suasana. Hidangan ini mengajak kita untuk menjelajahi kelezatan dan keanekaragaman cita rasa Semarang.</item>
+        <item>Nasi Gudeg, kuliner khas Jogja, merupakan olahan nangka muda yang dimasak dengan santan. Disajikan dengan lauk seperti ayam, telur, tahu/tempe bacem, dan sambel goreng krecek, Nasi Gudeg menjadi sajian ikonik yang merepresentasikan kekayaan rasa khas Yogyakarta. Setiap suapannya membawa kita merasakan kelezatan dan kehangatan budaya Jogja.</item>
+        <item>Rujak Cingur, makanan khas Surabaya, menjadi unik dengan menggunakan cingur (mulut sapi) sebagai bahan utama. Disajikan bersama sayuran dan bumbu kacang siram petis udang, Rujak Cingur menghadirkan keberagaman cita rasa Jawa Timur yang eksotis dan mengundang selera. Hidangan ini tidak hanya lezat tetapi juga menciptakan pengalaman kuliner yang tak terlupakan.</item>
+        <item>Ayam Betutu, makanan khas Bali, menggambarkan kekayaan kuliner pulau dewata. Terbuat dari ayam yang diolah dengan bumbu betutu, hidangan ini menciptakan cita rasa lezat yang menjadi representasi dari kekhasan masakan Bali. Ayam Betutu bukan hanya sajian kuliner biasa, tetapi juga merupakan bagian tak terpisahkan dari tradisi dan perayaan di Bali, sering dihidangkan pada acara khusus seperti upacara keagamaan dan pernikahan.</item>
+        <item>Ayam Taliwang, olahan ayam pedas khas Lombok, tidak hanya menggugah selera tetapi juga mencerminkan keberanian dalam mengeksplorasi rasa. Disajikan bersama nasi hangat dan plecing kangkung, Ayam Taliwang menjadi hidangan yang menciptakan harmoni cita rasa pedas dan segar. Hidangan ini, dengan keunikannya, telah menjadi bagian integral dari kuliner Lombok yang beragam dan menggoda selera.</item>
+        <item>Jagung Bose, makanan utama pengganti nasi khas Nusa Tenggara Timur, menawarkan alternatif yang lezat dan mengenyangkan. Terbuat dari jagung, kacang-kacangan, dan santan, makanan ini disajikan dengan lauk seperti ikan tuna goreng, tumis paria, dan sambal lu’at. Dengan keberagaman bahan lokal yang digunakan, Jagung Bose menjadi wujud dari kreativitas dalam menyajikan hidangan yang lezat dan bergizi.</item>
+        <item>Bubur Pedas, hidangan khas Kalimantan Barat, menciptakan pengalaman kuliner yang unik. Terbuat dari beras yang ditumbuk, dioseng dengan rempah-rempah, dan ditambah sayuran seperti kangkung dan pakis, bubur ini ditaburi dengan kacang goreng dan ikan teri untuk menambah kenikmatan. Bubur Pedas tidak hanya memberikan kelezatan rasa tetapi juga menjadi bagian dari identitas kuliner Kalimantan Barat yang kaya akan rempah-rempah dan kearifan lokal.</item>
+        <item>Soto Banjar, jenis soto khas Suku Banjar dari Kalimantan Selatan, merupakan warisan kuliner yang mencerminkan kekayaan budaya setempat. Soto Banjar ini berkuah bening dengan rempah-rempah seperti pala, kayu manis, dan cengkeh, yang ditaburi dengan suwiran ayam, perkedel kentang, dan telur rebus. Keunikan hidangan ini terletak pada penggunaan ketupat sebagai karbohidrat utamanya, menciptakan pengalaman menyantap yang autentik dan berbeda dari soto lainnya.</item>
+        <item>Kepiting Soka, makanan khas Kalimantan Utara, memikat lidah para penikmat hidangan laut. Dapat diolah dengan berbagai cara, mulai dari tumis dengan saus khas hingga digoreng krispi dengan tepung, kepiting soka menjadi lambang dari kekayaan sumber daya laut di daerah ini. Kelezatan dan variasi dalam penyajian menjadikan Kepiting Soka sebagai sajian istimewa yang tidak boleh dilewatkan.</item>
+        <item>Sop Konro, olahan iga sapi khas Sulawesi Selatan, menjadi daya tarik bagi para pecinta daging. Kuahnya yang berwarna coklat khas, berasal dari rempah-rempah yang lezat dan menyegarkan, memberikan karakteristik unik pada hidangan ini. Terkenal di daerah asalnya dan bahkan sampai ke daerah lain, Sop Konro mencerminkan keberagaman kuliner Indonesia dan menjadi pesona tersendiri dalam dunia kuliner.</item>
+        <item>Papeda, makanan pokok masyarakat Papua, menampilkan keberagaman bahan pangan di wilayah tersebut. Terbuat dari tepung sagu yang disantap bersama kuah kuning dari ikan tongkol, hidangan ini tidak hanya memberikan kekenyangan tetapi juga menggugah selera. Papeda mencerminkan kehidupan sehari-hari dan kedekatan masyarakat Papua dengan alam sekitarnya.</item>
+    </string-array>
+
+    <integer-array name="foods_photo_data">
+        <item>@drawable/mie_aceh</item>
+        <item>@drawable/bika_ambon</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/mie_bangka</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/karedok</item>
+        <item>@drawable/lumpia</item>
+        <item>@drawable/nasi_gudeg</item>
+        <item>@drawable/rujak_cingur</item>
+        <item>@drawable/ayam_betutu</item>
+        <item>@drawable/ayam_taliwang</item>
+        <item>@drawable/jagung_bose</item>
+        <item>@drawable/bubur_pedas</item>
+        <item>@drawable/soto_banjar</item>
+        <item>@drawable/kepiting_soka</item>
+        <item>@drawable/sop_konro</item>
+        <item>@drawable/papeda</item>
+    </integer-array>
+</resources>
